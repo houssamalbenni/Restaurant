@@ -1,54 +1,73 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
+Grilli – Restaurant Website
 
-  <br />
-  <br />
+A modern and elegant restaurant website designed to highlight menu items, special dishes, reservation options, and contact information.
+Clean layout, smooth structure, and focused on delivering an appealing user experience.
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+✨ Features
+🍽️ Stunning Hero Section
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+Engaging welcome banner
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+Clear call-to-action buttons
 
-</div>
+Smooth visual introduction to the restaurant
 
-<br />
+📜 Storytelling About Section
 
-### Demo Screeshots
+Elegant presentation of the restaurant’s background
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+Focus on craftsmanship, tradition, and flavor
 
-### Prerequisites
+⭐ Special Dish Highlight
 
-Before you begin, ensure you have met the following requirements:
+Featured premium dish
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+Attractive price display
 
-### Run Locally
+High-quality visuals for maximum impact
 
-To run **Grilli** locally, run this command on your git bash:
+📖 Organized Menu Categories
 
-Linux and macOS:
+Breakfast, Appetizers, Drinks, Specials
 
-```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
-```
+Each item includes a title, description, and price
 
-Windows:
+Modern card-style presentation
 
-```bash
-git clone https://github.com/codewithsadee/grilli.git
-```
+📞 Online Table Reservation
 
-### Contact
+Customer name, phone, date, time, and message fields
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+User-friendly booking form
 
-### License
+Optional phone booking number displayed prominently
 
-[MIT](https://choosealicense.com/licenses/mit/)
+🧑‍🍳 Why Choose Us
+
+Hygienic food
+
+Skilled chefs
+
+Fresh environment
+
+Event & party hosting
+
+Clean icon-based design
+
+📰 Latest Updates & Events
+
+Blog-style event cards
+
+Modern layout with date and category labels
+
+📍 Contact & Location Info
+
+Opening hours
+
+Address
+
+Email
+
+Google Map link
+
+Clean footer design with social media icons
